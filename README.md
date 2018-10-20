@@ -1,4 +1,4 @@
-# Game-Boy-KiCad-Library
+# Game Boy KiCad Library
 A library for Game Boy (Color/Advance) Console &amp; Game Hardware
 
 Currently the library contains symbols for the following IC's
