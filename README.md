@@ -13,3 +13,4 @@ A library for Game Boy (Color/Advance) Console &amp; Game Hardware
 ### Footprints
 
 - MBC3
+- DS Lite Cartridge Slot
